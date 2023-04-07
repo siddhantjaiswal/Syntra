@@ -1,4 +1,8 @@
-This project is a react based [Demo](https://syntra-f8d15.firebaseapp.com).
+This project is a react based Demo of Syntra.
+
+Working demo
+
+https://syntra-f8d15.firebaseapp.com
 
 ## Available Scripts
 
