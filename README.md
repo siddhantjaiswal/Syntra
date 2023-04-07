@@ -1,6 +1,6 @@
 This project is a react based Demo of Syntra.
 
-Working demo
+## Working demo
 
 https://syntra-f8d15.firebaseapp.com
 
